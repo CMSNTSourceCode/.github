@@ -20,5 +20,5 @@
 </div>
 
 
-![image](https://user-images.githubusercontent.com/73270862/185110357-918b6a89-0029-4e5f-9795-77da5724500d.png)
+
 
